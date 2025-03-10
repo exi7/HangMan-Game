@@ -1,2 +1,2 @@
 # HangMan-Game
-Just the game of the HangMAn
+Just the game of the HangMan
