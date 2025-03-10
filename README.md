@@ -8,7 +8,7 @@
     <img src="https://img.shields.io/badge/Python-3.8.5-informational.svg">
   </a>
   <a href="https://github.com/YourGitHubUsername">
-    <img src="https://img.shields.io/github/repo-size/YourGitHubUsername/Hangman-Game.svg?label=Repo%20size&style=flat-square">
+    <img src="https://img.shields.io/github/repo-size/exi7/Hangman-Game.svg?label=Repo%20size&style=flat-square">
   </a>
 </p>
 
